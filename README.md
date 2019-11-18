@@ -1,4 +1,4 @@
-# DIGOO-DG-HAMA
+# DIGOO-DG-HAMA (PG-106)
 
 
 These are the flash dumps from the DIGOO DG-HAMA alarm system. <br>
